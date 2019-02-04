@@ -1,26 +1,10 @@
----
-title: "Example Title"
-date: \today{}
-author: "Maxwell Ogden, Karissa McKelvey, Mathias Buus Madsen, Code for Science"
-
-papersize: a4paper
-
-header-includes:
-  - \hypersetup{colorlinks=true,
-            allbordercolors={0 0 0},
-            pdfborderstyle={/S/U/W 0}}
-
-linkcolor: blue
-
-bibliography: biblio.bib
-
-csl: ieee.csl
----
-
 \newpage
 
 <!-- \chapter{Dynamic languages}
  -->
+
+# Big Title
+
 ## Ruby
 Ruby is a dynamic, reflective, object-oriented, general-purpose programming
 language [@item1].
@@ -49,3 +33,4 @@ Here you can reference the equation @eq:label-of-the-eq.
 
 You can refer to a venue using ^[@asplos] or ^[@ase].
 
+TODO. Venues Doesn't work!
